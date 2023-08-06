@@ -158,7 +158,7 @@
   height: 364px;
   background-color: #755CDE;
   border-radius: 8px;
-  background-image: url(/img/first_svg.svg);
+  background-image: url(./img/first_svg.svg);
   background-repeat: no-repeat;
   background-position: 90% 10%;
   display: flex;
@@ -186,7 +186,7 @@
   height: 182px;
   background-color: #F6A560;
   border-radius: 8px;
-  background-image: url(/img/second_svg.svg);
+  background-image: url(./img/second_svg.svg);
   background-repeat: no-repeat;
   background-position: 80% 20%;
   display: flex;
@@ -208,7 +208,7 @@
   height: 182px;
   background-color: #F39E9E;
   border-radius: 8px;
-  background-image: url(/img/third_svg.svg);
+  background-image: url(./img/third_svg.svg);
   background-repeat: no-repeat;
   background-position: 80% 20%;
   display: flex;
@@ -231,7 +231,7 @@
   background-color: #EB7565;
   margin-top: 24px;
   border-radius: 8px;
-  background-image: url(/img/fifth_svg.svg);
+  background-image: url(./img/fifth_svg.svg);
   background-repeat: no-repeat;
   background-position: 90% 20%;
   display: flex;
@@ -259,7 +259,7 @@
   height: 182px;
   background-color: #61C4B7;
   border-radius: 8px;
-  background-image: url(/img/fourth_svg.svg);
+  background-image: url(./img/fourth_svg.svg);
   background-repeat: no-repeat;
   background-position: 90% 20%;
   display: flex;
@@ -282,7 +282,7 @@
   background-color: #552049;
   margin-top: 24px;
   border-radius: 8px;
-  background-image: url(/img/six_svg.svg);
+  background-image: url(./img/six_svg.svg);
   background-repeat: no-repeat;
   background-position: 90% 20%;
   display: flex;
