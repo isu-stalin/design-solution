@@ -178,7 +178,6 @@
                         height: 364px;
                         background-color: #755CDE;
                         border-radius: 8px;
-                        background-image: url(./img/first_svg.svg);
                         background-repeat: no-repeat;
                         background-position: 90% 10%;
                         display: flex;
@@ -195,12 +194,18 @@
                             margin-bottom: 20px;
                             margin-left: 20px;
                         }
+
+                        .image_First{
+                            height: 100%;
+
+                            img{
+                                margin-top: 30px;
+                            }
+                        }
                     }
         
                     .second {
                         width: 354px;
-                        // height: 364px;
-                        // background-color: gray;
                         display: flex;
                         flex-wrap: wrap;
                         justify-content: space-between;
@@ -210,7 +215,6 @@
                             height: 182px;
                             background-color: #F6A560;
                             border-radius: 8px;
-                            background-image: url(./img/second_svg.svg);
                             background-repeat: no-repeat;
                             background-position: 80% 20%;
                             display: flex;
@@ -227,6 +231,14 @@
                                     margin-bottom: 20px;
                                     margin-left: 20px;
                                 }
+                                .image_First{
+                                    height: 100%;
+
+                                    img{
+                                        margin-top: 20px;
+                                        margin-left: -10px;
+                                    }
+                                }
                         }
         
                         .second-div {
@@ -234,7 +246,6 @@
                             height: 182px;
                             background-color: #F39E9E;
                             border-radius: 8px;
-                            background-image: url(./img/third_svg.svg);
                             background-repeat: no-repeat;
                             background-position: 80% 20%;
                             display: flex;
@@ -251,6 +262,13 @@
                                 margin-bottom: 20px;
                                 margin-left: 20px;
                             }
+                                .image_First {
+                                    height: 100%;
+    
+                                    img {
+                                        margin-top: 20px;
+                                    }
+                                }
                         }
         
                         .third-div {
@@ -259,7 +277,6 @@
                             background-color: #EB7565;
                             margin-top: 24px;
                             border-radius: 8px;
-                            background-image: url(./img/fifth_svg.svg);
                             background-repeat: no-repeat;
                             background-position: 90% 20%;
                             display: flex;
@@ -276,6 +293,14 @@
                                 margin-bottom: 20px;
                                 margin-left: 20px;
                            }
+                                .image_First {
+                                    height: 100%;
+    
+                                    img {
+                                        margin-top: 20px;
+                                        margin-left: 40px;
+                                    }
+                                }
                         }
                     }
         
@@ -291,11 +316,18 @@
                             height: 182px;
                             background-color: #61C4B7;
                             border-radius: 8px;
-                            background-image: url(./img/fourth_svg.svg);
                             background-repeat: no-repeat;
                             background-position: 90% 20%;
                             display: flex;
                             align-items: flex-end;
+
+                            .image_First {
+                                    height: 100%;
+                            
+                                    img {
+                                        margin-top: 20px;
+                                    }
+                                }
                         
                             p {
                                 font-family: Plus Jakarta Sans;
@@ -316,11 +348,19 @@
                             background-color: #552049;
                             margin-top: 24px;
                             border-radius: 8px;
-                            background-image: url(./img/six_svg.svg);
                             background-repeat: no-repeat;
                             background-position: 90% 20%;
                             display: flex;
                             align-items: flex-end;
+
+                            .image_First {
+                                    height: 100%;
+                            
+                                    img {
+                                        margin-top: 30px;
+                                        margin-left: -10px;
+                                    }
+                                }
                             
                             p {
                                 font-family: Plus Jakarta Sans;
