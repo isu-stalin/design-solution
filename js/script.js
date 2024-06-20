@@ -127,7 +127,7 @@ function last() {
 //
 //
 //CLOCK START
-const deadline = '2023-08-12';
+const deadline = '2024-07-30';
 
 function getTimerDate(endTime) {
     const t = Date.parse(endTime) - Date.parse(new Date()),
@@ -193,6 +193,7 @@ setTimeDate('.timer', deadline)
 let modal = document.getElementById("myModal");
 
 let btn = document.getElementById("myBtn");
+let btn2 = document.getElementById("myBtn2");
 
 let span = document.getElementsByClassName("close")[0];
 
@@ -200,6 +201,9 @@ btn.onclick = function () {
   modal.style.display = "block";
 };
 
+btn2.onclick = function () {
+  modal.style.display = "block";
+}
 span.onclick = function () {
   modal.style.display = "none";
 };

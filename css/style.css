@@ -34,6 +34,7 @@
   border-radius: 50%;
 }
 .container header button {
+  cursor: pointer;
   width: 228px;
   height: 56px;
   background-color: #030303;
@@ -116,6 +117,7 @@
   margin-top: 20px;
 }
 .container header .modal .modal-content .btn3 button {
+  cursor: pointer;
   background-color: #755CDE;
 }
 .container header .modal .modal-content .btn3 button:active {
@@ -375,6 +377,7 @@
   letter-spacing: 0px;
   color: #FFF7F0;
   margin-top: 33px;
+  cursor: pointer;
 }
 .container .middle .text_box .btn button:active {
   background-color: #F6A560;
@@ -499,6 +502,7 @@
 }
 .container .timer_card .first_timer_div .btn1 button {
   width: 228px;
+  cursor: pointer;
   height: 81px;
   background-color: #EB7565;
   border-radius: 20px;
@@ -587,6 +591,7 @@
   font-weight: 700;
   line-height: 28px;
   letter-spacing: 0px;
+  cursor: pointer;
 }
 .container footer button:active {
   background-color: #755CDE;
@@ -644,6 +649,7 @@
   .container .timer_card .first_timer_div .btn1 button {
     border-radius: 40px;
     height: 56px;
+    cursor: pointer;
   }
   .container .timer_card .clock {
     display: none;
